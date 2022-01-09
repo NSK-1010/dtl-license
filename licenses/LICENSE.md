@@ -12,7 +12,7 @@ But, you need to comply with the following conditions.
 4.  The tweet that exposed the tweet must also be covered by this license.
 5.  Do not apply this license without permission to other people's tweets that are not covered by this license.
 
-## About this license
+## 2\. About this license
 
 This license is a tweet-only license created by [Piano Nekomiya](https://twitter.com/PianoCat1010).
 
